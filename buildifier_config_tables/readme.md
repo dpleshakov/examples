@@ -1,6 +1,6 @@
-# Buildifier AddTables Path Search Issue Examples
+# Buildifier 7.3.1 AddTables Path Search Issue Examples
 
-This repository demonstrates an issue with the `AddTables` configuration in **Buildifier** when specifying a **relative path** to the `.buildifier-tables.json` file. Specifically, it shows how Buildifier fails to locate the file when run from subdirectories of the workspace.
+This repository demonstrates an issue with the `AddTables` configuration in **Buildifier 7.3.1** when specifying a **relative path** to the `.buildifier-tables.json` file. Specifically, it shows how Buildifier fails to locate the file when run from subdirectories of the workspace.
 
 ## Problem Overview
 
