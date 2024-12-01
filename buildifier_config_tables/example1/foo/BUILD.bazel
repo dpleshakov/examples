@@ -1,0 +1,5 @@
+genrule(
+    name = "hello-message-foo",
+    outs = ["message-foo.txt"],
+    cmd = "echo 'Hello, Foo!' > $@",
+)
