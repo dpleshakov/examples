@@ -24,7 +24,7 @@ example1/
 ├── foo/
 │   └── BUILD.bazel
 ├── BUILD.bazel
-└── WORKSPACE.bazel
+└── WORKSPACE
 ```
 
 ### Issue
@@ -73,7 +73,7 @@ example2/
 ├── foo/
 │   └── BUILD.bazel
 ├── BUILD.bazel
-└── WORKSPACE.bazel
+└── WORKSPACE
 ```
 
 ### Issue
